@@ -45,12 +45,6 @@ params:
   navbar:
     displayTitle: true
     displayLogo: true
-    logo:
-      path: /images/logo.svg
-      dark: /images/logo-dark.svg
-      link: /  # 点击 logo 跳转到首页
-      width: 50
-      height: 50
     displayThemeToggle: true
 
   footer:
