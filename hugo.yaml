@@ -46,8 +46,8 @@ params:
     displayTitle: true
     displayLogo: true
     logo:
-      path: /favicon.svg
-      dark: /favicon-dark.svg
+      path: favicon.svg
+      dark: favicon-dark.svg
       link: /  # 点击 logo 跳转到首页
       width: 50
       height: 50
